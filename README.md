@@ -8,23 +8,23 @@
 
 ### Tecnologias:
 
-<div style="display: inline_block">
+<div>
  <picture>
   <img align="center" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
  </picture>
-  <picture>
+ <picture>
   <img align="center" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-   </picture>
-   <picture>
+ </picture>
+ <picture>
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    </picture>
-    <picture>
+ </picture>
+ <picture>
   <img align="center" alt="Ts" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-     </picture>
-     <picture>
+ </picture>
+ <picture>
   <img align="center" alt="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-      </picture>
-      <picture>
+ </picture>
+ <picture>
   <img align="center" alt="Threejs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"/>
-       </picture>
+ </picture>
 </div>
