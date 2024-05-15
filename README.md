@@ -1,5 +1,7 @@
 # 💫 Sobre mim:
-Estou trabalhando em diversos projetos na software house DigitalDesenvolvimento com foco no Front End em React.js
+Estou trabalhando em diversos projetos na software house DigitalDesenvolvimento com foco no Front End em React.js e utilizando o framework Next.js.
+
+Também tenho outros projetos full stack individuais que foco em aprender tecnologias novas de diversas areas diferentes que estão disponíveis aqui no GitHub.
 
 
 ## 🌐 Socials:
